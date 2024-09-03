@@ -10,15 +10,14 @@ This repository contains the visualizations for a detailed analysis of real esta
 ## Tools Used
 - **Tableau**: For creating interactive visualizations that elucidate relationships between home values, rental prices, and mortgage metrics.
 
-## Repository Structure
-- `/data`: Contains all datasets used in the analysis.
-- `/visualizations`: Stores Tableau dashboard exports and other graphical outputs.
-- `/docs`: Documentation and additional resources related to the project.
+## Usage
+Open the Final_Project_INST_462.twbx file with Tableau to explore the interactive dashboards.
 
-## Installation
-To use this repository, simply clone it using:
-```bash
-git clone https://github.com/your-username/real-estate-analysis.git
-```
+## Contributing
+Interested in contributing? Fork the repository and feel free to submit pull requests with your enhancements.
+
+## License
+This project is under the MIT License - see the LICENSE file for details.
+
 ## Contact
 For any queries or further information, please reach out to ibrhmoh15@gmail.com
