@@ -19,3 +19,6 @@ This repository contains the visualizations for a detailed analysis of real esta
 To use this repository, simply clone it using:
 ```bash
 git clone https://github.com/your-username/real-estate-analysis.git
+```
+## Contact
+For any queries or further information, please reach out to ibrhmoh15@gmail.com
